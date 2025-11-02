@@ -1,0 +1,9 @@
+﻿click
+newsapi-python
+arxiv
+pandas
+scikit-learn
+sentence-transformers
+beautifulsoup4
+requests
+streamlit
